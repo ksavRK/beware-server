@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "64c646be8061e9f5a0aa6afa"
+  },
+  "name": "Environmental cause",
+  "description": "Save the environment",
+  "business": "Apple inc.",
+  "comments": []
+},{
+  "_id": {
+    "$oid": "64c646f68061e9f5a0aa6afb"
+  },
+  "name": "Social cause",
+  "description": "Save the society",
+  "business": "Apple inc.",
+  "comments": []
+},{
+  "_id": {
+    "$oid": "64c647178061e9f5a0aa6afc"
+  },
+  "name": "Animal cause",
+  "description": "Save the animals, they need us.",
+  "business": "Pets Society",
+  "comments": []
+},{
+  "_id": {
+    "$oid": "64c649cd8061e9f5a0aa6afe"
+  },
+  "name": "Cause 1",
+  "description": "Description of Cause 1",
+  "business": "Business 1",
+  "comments": []
+},{
+  "_id": {
+    "$oid": "64c649cd8061e9f5a0aa6aff"
+  },
+  "name": "Cause 2",
+  "description": "Description of Cause 2",
+  "business": "Business 2",
+  "comments": []
+},{
+  "_id": {
+    "$oid": "64c649cd8061e9f5a0aa6b00"
+  },
+  "name": "Cause 3",
+  "description": "Description of Cause 3",
+  "business": "Business 3",
+  "comments": []
+},{
+  "_id": {
+    "$oid": "64c649cd8061e9f5a0aa6b01"
+  },
+  "name": "Cause 4",
+  "description": "Description of Cause 4",
+  "business": "Business 4",
+  "comments": []
+},{
+  "_id": {
+    "$oid": "64c649cd8061e9f5a0aa6b02"
+  },
+  "name": "Cause 5",
+  "description": "Description of Cause 5",
+  "business": "Business 5",
+  "comments": []
+},{
+  "_id": {
+    "$oid": "64c649cd8061e9f5a0aa6b03"
+  },
+  "name": "Cause 6",
+  "description": "Description of Cause 6",
+  "business": "Business 6",
+  "comments": []
+},{
+  "_id": {
+    "$oid": "64c649cd8061e9f5a0aa6b04"
+  },
+  "name": "Cause 7",
+  "description": "Description of Cause 7",
+  "business": "Business 7",
+  "comments": []
+},{
+  "_id": {
+    "$oid": "64c649cd8061e9f5a0aa6b05"
+  },
+  "name": "Cause 8",
+  "description": "Description of Cause 8",
+  "business": "Business 8",
+  "comments": []
+},{
+  "_id": {
+    "$oid": "64c649cd8061e9f5a0aa6b06"
+  },
+  "name": "Cause 9",
+  "description": "Description of Cause 9",
+  "business": "Business 9",
+  "comments": []
+},{
+  "_id": {
+    "$oid": "64c649cd8061e9f5a0aa6b07"
+  },
+  "name": "Cause 10",
+  "description": "Description of Cause 10",
+  "business": "Business 10",
+  "comments": []
+}]
