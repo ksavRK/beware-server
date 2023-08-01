@@ -12,8 +12,9 @@ var corsOptions = {
 };
 
 const main = async () => {
+  const uri = "mongodb+srv://kunwarkeshav26:keshav123@bewaredb.xsiblur.mongodb.net/?retryWrites=true&w=majority";
   try {
-    await db.mongoose.connect(`mongodb://${dbConfig.HOST}:${dbConfig.PORT}/${dbConfig.DB}`, {
+    await db.mongoose.connect(uri, {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     });
